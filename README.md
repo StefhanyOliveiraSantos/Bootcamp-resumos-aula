@@ -43,4 +43,5 @@ Caso o servidor "cair" não haverá interferencia.
 
 **Git  ≠  GitHub**
 - Git é um banco de versõesonde ajuda nessa organização do Versionameto de código.
-- GitHub é onde os código são hosopedados (servidor)
+- GitHub é onde os código são hospedados (servidor)
+
